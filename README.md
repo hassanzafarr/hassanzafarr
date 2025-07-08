@@ -3,6 +3,7 @@
 ## About me
 <ul>
   <li>🧑‍🔬 Working as Research Assistant @ DIPF </li>
+ <li>AI Tutors and Multimodal Learning Technologies for Feedback Augmentation</li>
 </ul>
 
 ## Connnect with me
