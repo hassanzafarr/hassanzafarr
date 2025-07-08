@@ -2,9 +2,7 @@
 
 ## About me
 <ul>
-  <li>🗣️💬 Talks about Web3 & Blockchain</li>
   <li>🧑‍🔬 Working as Research Assistant @ DIPF </li>
-  <li>❤️😊 Loves Javascript </li>
 </ul>
 
 ## Connnect with me
