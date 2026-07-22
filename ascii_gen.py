@@ -19,9 +19,9 @@ Pipeline:
 import sys
 from PIL import Image, ImageOps
 
-COLS = 42
+COLS = 37
 ROWS = 25
-CHAR_W, CHAR_H = 8.7, 20.0          # Consolas 16px cell in the SVG
+CHAR_W, CHAR_H = 9.6, 20.0          # Consolas 16px cell in the SVG (incl. 109% size-adjust)
 RAMP = "@Nm%kwj|(;:,'.` "           # dark -> light
 BG_DIST = 90                        # max RGB distance to corner color = background
 
